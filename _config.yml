@@ -10,5 +10,7 @@ url: "http://fatimasalmanmirza.github.io" # the base hostname & protocol for you
 twitter_username: meetfatima
 github_username: fatimasalmanmirza 
 
+sass:
+    sass_dir: _sass
 # Build settings
 markdown: kramdown
