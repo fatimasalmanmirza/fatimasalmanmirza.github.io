@@ -1,1 +1,15 @@
+
+# Site settings
+title: Fatima Salman Mirza
 theme: jekyll-theme-dinky
+email: mail@fatima.dev
+description: > # this means to ignore newlines until "baseurl:"
+  Projects and posts by Fatima.
+baseurl: "" # the subpath of your site, e.g. /blog/
+
+url: "http://fatima.dev" # the base hostname & protocol for your site
+twitter_username: meetfatima
+github_username: fatimasalmanmirza 
+
+# Build settings
+markdown: kramdown
