@@ -1,7 +1,7 @@
 
 # Site settings
 title: Fatima Salman Mirza
-theme: jekyll-theme-dinky
+theme: jekyll-theme-minimal
 email: mail@fatima.dev
 description: > # this means to ignore newlines until "baseurl:"
   Projects and posts by Fatima.
