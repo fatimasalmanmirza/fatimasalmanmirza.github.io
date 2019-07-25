@@ -1,0 +1,33 @@
+/*fieldset {
+	background-image: url(https://s-media-cache-ak0.pinimg.com/236x/d3/e9/fc/d3e9fc222c9bd0d12e0ff126acf7df00.jpg);
+}*/
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: flex;
+  font-size: 16px;
+  cursor: pointer;
+  position: absolute;
+  margin-left: 45%;
+  top: 45%;
+
+}
+body,html{
+	height: 100%;
+}
+
+#mainBody {
+
+	height: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+
+}
+
+h1{
+	font-style: all;
+}
