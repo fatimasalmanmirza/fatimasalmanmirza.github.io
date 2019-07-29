@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>Drawing & Painting</title>
+	<link rel="stylesheet" type="text/css" href="drawing.css">
+</head>
+<body>
+	<h1> Let's Draw!</h1>
+	<h2> Choose the colors from below and start drawing. </h2>
+	<section>
+		<div id="drawingtools">
+			<div id="colors">
+				<button id="black" onclick="changeColor('black')"></button>
+				<button id="white" onclick="changeColor('white')"></button>
+				<button id="red" onclick="changeColor('red')"></button>
+				<button id="green" onclick="changeColor('green')"></button>
+				<button id="blue" onclick="changeColor('blue')"></button>
+			</div>
+			
+			<div id="othertools">
+				<button id="clearCanvas" onclick="clearCanvas()">Clear</button>
+				</div>
+			</div>
+			<canvas id="canvas" width="800" height="500"></canvas>		
+	</section>
+	<script src="drawing.js"></script>
+
+</body>
+</html
